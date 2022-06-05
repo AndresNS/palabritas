@@ -8,12 +8,12 @@ const App = () => {
   const [searchResults, setSearchResults] = useState([]);
 
   return (
-    <div className="bg-slate-100 text-gray-900 min-h-screen">
+    <div className="bg-slate-100 text-gray-900 min-h-screen flex flex-col">
       <header className="text-center py-4 bg-cyan-600 text-white font-bold text-3xl">
         Palabritas
       </header>
 
-      <div className="container mx-auto my-16">
+      <div className="container mx-auto my-16 flex-1">
         <h2 className="text-center mb-8 text-2xl">¿Qué letras conoces?</h2>
 
         <Alphabet setSearchResults={setSearchResults} />
