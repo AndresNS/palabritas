@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/palabritas/static/css/main.4d4f38d4.css",
-    "main.js": "/palabritas/static/js/main.c242d08f.js",
+    "main.css": "/palabritas/static/css/main.ea8a13f5.css",
+    "main.js": "/palabritas/static/js/main.97e65171.js",
     "static/js/787.a729c860.chunk.js": "/palabritas/static/js/787.a729c860.chunk.js",
     "index.html": "/palabritas/index.html",
-    "main.4d4f38d4.css.map": "/palabritas/static/css/main.4d4f38d4.css.map",
-    "main.c242d08f.js.map": "/palabritas/static/js/main.c242d08f.js.map",
+    "main.ea8a13f5.css.map": "/palabritas/static/css/main.ea8a13f5.css.map",
+    "main.97e65171.js.map": "/palabritas/static/js/main.97e65171.js.map",
     "787.a729c860.chunk.js.map": "/palabritas/static/js/787.a729c860.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d4f38d4.css",
-    "static/js/main.c242d08f.js"
+    "static/css/main.ea8a13f5.css",
+    "static/js/main.97e65171.js"
   ]
 }
